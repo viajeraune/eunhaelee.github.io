@@ -3,8 +3,8 @@ title: Eunhae Lee
 subtitle: Portfolio
 email: eunhae@mit.edu
 description: welcome to my website
-baseurl: "/portfolio" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+baseurl:  # the subpath of your site, e.g. /blog
+url: https://viajeraune.github.io/eunhaelee/ # the base hostname & protocol for your site
 author: Eunhae Lee
 street_address: 1234 Somewhere Road
 city: Nashville
