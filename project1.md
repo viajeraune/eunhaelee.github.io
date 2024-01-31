@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project 1
+title: Projects
 image: assets/images/pic01.jpg
 nav-menu: false
 show_tile: true
