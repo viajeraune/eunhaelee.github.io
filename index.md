@@ -8,4 +8,5 @@ author: null
 show_tile: false
 ---
 
-Check out the rest of my portfolio!
+product manager by trade, generalist at heart.
+my passion lies in the heart of AI, design, and human behavior

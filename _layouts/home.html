@@ -13,13 +13,15 @@
     {% include header.html %}
 
     <!-- Banner -->
+    
     <section id="banner" class="major">
         <div class="inner">
             <header class="major">
-                <h1>{{ page.landing-title }}</h1>
+                <h1>{{ page.landing-title }}</h1> <!-- edit in index.md -->
             </header>
-            <div class="content">
-                <p style="text-transform: uppercase;">{{ site.description }}</p>
+            <div class="inner">
+                <p>{{ content }}</p> 
+                <!-- <p style="text-transform: uppercase;">{{ site.description }}</p>  -->
                 <ul class="actions">
                     <li><a href="#one" class="button next scrolly">Get started</a></li>
                 </ul>
@@ -39,7 +41,7 @@
                 <header class="major">
                     <!-- <h2>About me</h2> -->
                 </header>
-                <p>{{ content }}</p>
+                <p>Check out more work!</p> <!-- edit in index.md -->
                 <ul class="actions">
                     <li><a href="landing.html" class="button next">See more</a></li>
                 </ul>
