@@ -1,9 +1,11 @@
 ---
 layout: page
 title: Projects
-image: assets/images/pic04.jpg
+description: "Nullam et orci eu lorem consequat tincidunt vivamus."
+image: assets/images/pic02.jpg
 nav-menu: false
 show_tile: true
+order: 2
 ---
 
 <!-- Main -->
@@ -13,7 +15,7 @@ show_tile: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Project 4</h1>
+			<h1>Project 2</h1>
 		</header>
 
 <!-- Content -->

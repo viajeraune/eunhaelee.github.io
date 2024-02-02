@@ -1,9 +1,11 @@
 ---
 layout: page
 title: Projects
+description: "Nullam et orci eu lorem consequat tincidunt vivamus."
 image: assets/images/pic03.jpg
 nav-menu: false
 show_tile: true
+order: 3
 ---
 
 <!-- Main -->

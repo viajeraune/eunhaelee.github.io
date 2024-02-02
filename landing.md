@@ -22,6 +22,28 @@ show_tile: false
 
 <!-- Two -->
 <section id="two" class="spotlights">
+{% assign sorted_projects = site.projects | sort: 'order' | reverse %}
+  {% for project in sorted_projects %}
+    <section>
+      <a href="{{ project.url | relative_url }}" class="image">
+        <img src="{{ project.image | relative_url }}" alt="" data-position="{{ project.image_position }}" />
+      </a>
+      <div class="content">
+        <div class="inner">
+          <header class="major">
+            <h3>{{ project.title }}</h3>
+          </header>
+          <p>{{ project.description }}</p>
+          <ul class="actions">
+            <li><a href="{{ project.url | relative_url }}" class="button">Learn more</a></li>
+          </ul>
+        </div>
+      </div>
+    </section>
+  {% endfor %}
+</section>
+
+<!-- <section id="two" class="spotlights">
 	<section>
 		<a href="project1.html" class="image">
 			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
@@ -86,7 +108,7 @@ show_tile: false
 			</div>
 		</div>
 	</section>
-</section>
+</section> -->
 
 <!-- Three -->
 <section id="three">
