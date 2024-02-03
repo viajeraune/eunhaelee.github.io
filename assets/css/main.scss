@@ -5,7 +5,10 @@
 @import 'libs/mixins';
 @import 'libs/skel';
 @import 'font-awesome.min.css';
+@import 'swiper-bundle.min.css';
 @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,600,600italic');
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100;0,200;0,300;0,400;0,600;1,100;1,200;1,300;1,400;1,600&family=Major+Mono+Display&family=Space+Grotesk:wght@300;400;600;700&family=Syne:wght@400;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100;0,200;0,300;0,400;0,600;1,100;1,200;1,300;1,400;1,600&family=Inter:wght@100;200;300;400;500;600;700;800&family=Major+Mono+Display&family=Space+Grotesk:wght@300;400;600;700&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&family=Syne:wght@400;600;700;800&display=swap');
 
 /*
 	Forty by HTML5 UP
@@ -38,7 +41,7 @@
 
 	@mixin inner {
 		> .inner {
-			@include padding(4em, 0);
+			@include padding(4em, 10em);
 			margin: 0 auto;
 			max-width: _size(inner);
 			width: calc(100% - 6em);

@@ -8,9 +8,9 @@
 
 	body, input, select, textarea {
 		color: _palette(fg);
-		font-family: _font(family);
-		font-size: 17pt;
-		font-weight: _font(weight);
+		font-family: _font(primary);
+		font-size: 16pt;
+		font-weight: _font(weight-light);
 		letter-spacing: _font(letter-spacing);
 		line-height: 1.65;
 
@@ -25,6 +25,17 @@
 		@include breakpoint(xxsmall) {
 			font-size: 11pt;
 		}
+	}
+
+	header {
+		font-family: _font(accent);
+		font-weight: _font(weight);
+
+		&.description {
+			font-family: _font(primary);
+			font-weight: _font(weight-light);
+		}
+
 	}
 
 	a {
@@ -68,6 +79,8 @@
 		font-weight: _font(weight-bold);
 		line-height: 1.65;
 		margin: 0 0 (_size(element-margin) * 0.5) 0;
+		font-family: _font(secondary);
+		font-weight: _font(weight-bold);
 
 		a {
 			color: inherit;

@@ -20,18 +20,21 @@
 
 // Font.
 	$font: (
-		family:				('Source Sans Pro', Helvetica, sans-serif),
-		family-fixed:		('Courier New', monospace),
+		primary:            ('Space Grotesk', sans-serif),
+		secondary:          ('Syne', sans-serif),
+		accent:             ('Major Mono Display', monospace),
+		family-fixed:		('Space Mono', monospace),
+		weight-light:		200,
 		weight:				400,
-		weight-bold:		600,
-		letter-spacing:		0.025em,
-		letter-spacing-alt:	0.25em
+		weight-bold:		700,
+		letter-spacing:		0.02em,
+		letter-spacing-alt:	0.15em
 	);
 
 // Palette.
 	$palette: (
 		bg:					#ffffff,
-		bg-alt:				#eeeeee,
+		bg-alt:				#efefef,
 		fg:					#1b1b1b,
 		fg-bold:			#7579E7,
 		fg-light:			rgba(244,244,255,0.2),

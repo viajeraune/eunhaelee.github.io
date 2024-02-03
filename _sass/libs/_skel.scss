@@ -458,6 +458,7 @@
 						-moz-box-sizing: border-box;
 						-webkit-box-sizing: border-box;
 						box-sizing: border-box;
+						padding: 2em 0;
 					}
 
 					.row > * {
@@ -475,11 +476,11 @@
 					}
 
 					.row.uniform > * > :first-child {
-						margin-top: 0;
+						margin-top: 10;
 					}
 
 					.row.uniform > * > :last-child {
-						margin-bottom: 0;
+						margin-bottom: 10;
 					}
 
 				// Gutters (0%).
