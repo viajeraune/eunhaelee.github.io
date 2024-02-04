@@ -42,10 +42,16 @@ order: 2
 <div class="swiper">
   <div class="swiper-wrapper">
     <div class="swiper-slide"><img src="{{ '/assets/images/rumblebug/6.png' | relative_url }}" alt="Image 1"></div>
+	<div class="swiper-slide"><img src="{{ '/assets/images/rumblebug/11.png' | relative_url }}" alt="Image 11"></div>
 	<div class="swiper-slide"><img src="{{ '/assets/images/rumblebug/7.png' | relative_url }}" alt="Image 3"></div>
-	<div class="swiper-slide"><img src="{{ '/assets/images/rumblebug/3.png' | relative_url }}" alt="Image 3"></div>
-    <div class="swiper-slide"><img src="{{ '/assets/images/rumblebug/5.png' | relative_url }}" alt="Image 2"></div>
+	<div class="swiper-slide"><img src="{{ '/assets/images/rumblebug/10.png' | relative_url }}" alt="Image 3"></div>
+	<div class="swiper-slide"><img src="{{ '/assets/images/rumblebug/8.png' | relative_url }}" alt="Image 3"></div>
+	<div class="swiper-slide"><img src="{{ '/assets/images/rumblebug/12.png' | relative_url }}" alt="Image 12"></div>
+	<!-- <div class="swiper-slide"><img src="{{ '/assets/images/rumblebug/9.png' | relative_url }}" alt="Image 3"></div> -->
+	<!-- <div class="swiper-slide"><img src="{{ '/assets/images/rumblebug/3.png' | relative_url }}" alt="Image 3"></div> -->
 	<div class="swiper-slide"><img src="{{ '/assets/images/rumblebug/4.png' | relative_url }}" alt="Image 3"></div>
+	<div class="swiper-slide"><img src="{{ '/assets/images/rumblebug/5.png' | relative_url }}" alt="Image 2"></div>
+	
     <!-- More slides -->
   </div>
   <!-- Add Pagination -->
