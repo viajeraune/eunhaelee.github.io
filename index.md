@@ -8,5 +8,4 @@ author: null
 show_tile: false
 ---
 
-product manager by trade, generalist at heart.
-my passion lies in the heart of AI, design, and human behavior
+an empathy-driven user advocate working at the heart of ai + product + design. 

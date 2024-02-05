@@ -24,12 +24,6 @@ order: 2
 <p>This project started with a question: How might we help children build healthy play habits through active and explorative play?</p>
 <p>The team was comprised of individuals from different backgrounds, including mechanical engineering, industrial design, and social science and business. While there was cross-pollination of roles and skills for the sake of learning, I played an important role in user research and testing, concept development, market research, and go-to-market strategy.</p>
 
-<ul>
-	<li>When: February 2022 - May 2022</li>
-	<li>Duration: 3.5 months</li>
-	<li>Team members: Alex, Bam, Jerome</li>
-</ul>
-
 <h2 id="content">Process and Methodology</h2>
 <img src="{{ '/assets/images/rumblebug/2.png' | relative_url }}" alt="chart" data-position="center center" />
 
@@ -68,6 +62,12 @@ order: 2
 <iframe src="https://www.youtube.com/embed/6dU5p-av7IM?si=Oknlr2389ImqR4Kw" title="video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
+<h4>Details</h4>
+<ul>
+	<li>When: February 2022 - May 2022</li>
+	<li>Duration: 3.5 months</li>
+	<li>Collaborators: Alex, Bam, Jerome</li>
+</ul>
 
 <hr class="major" />
 

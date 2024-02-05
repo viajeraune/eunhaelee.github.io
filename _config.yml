@@ -3,7 +3,7 @@ title: Eunhae Lee
 subtitle: 
 email: eunhae@mit.edu
 description: my passion lies in the heart of AI, human behavior, and design
-baseurl: /eunhaelee # the subpath of your site, e.g. /blog
+baseurl: # the subpath of your site, e.g. /blog
 url: https://viajeraune.github.io # the base hostname & protocol for your site
 author: Eunhae Lee
 street_address: 1234 Somewhere Road

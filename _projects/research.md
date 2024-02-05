@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Continual Learning Research Project
-description: Deep learning model size and catastrophic forgetting
+title: Research Project in Deep Learning
+description: Investigating the impact of model size on forgetting
 image: assets/images/net.jpeg
 nav-menu: false
 show_tile: true
@@ -20,10 +20,16 @@ order: 4
 		{% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="colorful nets against black background" /></span>{% endif %}
 <!-- Content -->
 <h2 id="content">Overview</h2>
-<p>Continual learning (CL) aims to enable models to continuously learn from new, non-iid data streams while retaining previously acquired knowledge, facing the stability-plasticity dilemma. Unlike traditional CL models that learn from tasks with stable data distributions in an offline manner, Online Continual Learning (OCL) addresses more realistic scenarios where data arrives in small batches and cannot be revisited after training. OCL requires models to adapt in real-time, balancing between learning new information and preserving old knowledge without the need for access to all past data, often due to privacy or resource constraints.</p>
-<p>This study investigates the impact of model size on online continual learning performance, with a focus on catastrophic forgetting. Employing ResNet architectures of varying sizes and a slim version of ResNet18, the research examines how network depth and width affect model performance in class-incremental learning using the SplitCIFAR-10 dataset. Key findings reveal that larger models do not guarantee better continual learning performance; in fact, they often struggle more in adapting to new tasks, particularly in online settings. Surprisingly, the slim ResNet18 frequently outperformed its larger counterparts. These results challenge the notion that larger models inherently mitigate catastrophic forgetting, highlighting the nuanced relationship between model size and continual learning efficacy. This study contributes to a deeper understanding of model scalability and its practical implications in continual learning scenarios.</p>
+<p>Continual learning (CL) focuses on enabling models to learn from new data streams over time while preserving past knowledge, dealing with the stability-plasticity dilemma. Online Continual Learning (OCL) evolves this concept by adapting models to learn from ongoing small batches of data in real-time, without revisiting past data, often due to privacy or resource limitations. OCL strives for a balance between acquiring new information and retaining old knowledge in dynamic environments.</p>
 
-<h2 id="content">Key findings</h2>
+<p>This study investigates the impact of model size on online continual learning performance, with a focus on catastrophic forgetting. Employing ResNet architectures of varying sizes and a slim version of ResNet18, the research examines how network depth and width affect model performance in class-incremental learning using the SplitCIFAR-10 dataset. </p>
+
+<p>Key findings reveal that larger models do not guarantee better continual learning performance; in fact, they often struggle more in adapting to new tasks, particularly in online settings. These results challenge the notion that larger models inherently mitigate catastrophic forgetting, highlighting the nuanced relationship between model size and continual learning efficacy. This study contributes to a deeper understanding of model scalability and its practical implications in continual learning scenarios.</p>
+
+<p><a href="" class="button">See paper on arxiv</a></p>
+
+
+<h2 id="content">Highlights</h2>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<strong>Accuracy decreases as model size increases</strong>
@@ -62,10 +68,10 @@ order: 4
 
 <hr class="major" />
 
-<p><a href="">See paper on arxiv</a></p>
+<!-- <p><a href="">See paper on arxiv</a></p> -->
 
-<p>This research project was done as a final project for a graduate course on Deep Learning (6.S898 Deep Learning) at MIT. I am the sole author of the project and paper. </p>
-
+<h4>Details</h4>
+<p>This research was completed as a final project for the graduate course 6.S898 Deep Learning at MIT. I am the sole author of the project and paper. </p>
 
 
 </div>

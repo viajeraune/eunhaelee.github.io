@@ -29,10 +29,9 @@ show_tile: false
         <p>💡 I'm a generalist with a specialist's eye and a bias towards execution. I thrive in environments wired for learning, creativity, and teamwork.</p>
         <p>✨️ My vision is to contribute to building a more inclusive and sustainable future by empowering people and communities through humanity-centered design.</p>
 	</div>
-
     <div class="6u$ 12u$(small)" style="text-align: center; display: flex; justify-content: center; align-items: center;">
         <div style="border-radius: 50%; overflow: clip; width: 250px; height: 250px;">
-            <img src="{% link assets/images/eunhae-headshot2-sq.jpeg %}" alt="" style="width: 100%; height: 100%; object-fit: cover;object-position: center;">
+            <img src="{{ 'assets/images/eunhae-headshot2-sq.jpeg' | relative_url }}" alt="headshot" style="width: 100%; height: 100%; object-fit: cover;object-position: center;">
         </div>
 	</div>
 
