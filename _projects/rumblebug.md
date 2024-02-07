@@ -5,7 +5,7 @@ description: Empathetic toy that builds healthy play habits
 image: assets/images/rumblebug/1.png
 nav-menu: false
 show_tile: true
-order: 2
+order: 7
 ---
 
 <!-- Main -->

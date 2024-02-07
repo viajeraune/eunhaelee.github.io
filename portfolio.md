@@ -2,7 +2,7 @@
 title: Portfolio
 layout: landing
 description: 'Check out a selection of my work'
-image: assets/images/pic07.jpg
+image: assets/images/pic03.jpg
 nav-menu: true
 show_tile: false
 ---
@@ -111,7 +111,7 @@ show_tile: false
 </section> -->
 
 <!-- Three -->
-<section id="three">
+<!-- <section id="three">
 	<div class="inner">
 		<header class="major">
 			<h2>Massa libero</h2>
@@ -121,6 +121,6 @@ show_tile: false
 			<li><a href="generic.html" class="button next">Get Started</a></li>
 		</ul>
 	</div>
-</section>
+</section> -->
 
 </div>

@@ -351,14 +351,14 @@
 	var mySwiper = new Swiper('.swiper', {
 		// Optional parameters
 		direction: 'horizontal',
-		loop: true,
+		loop: false,
 		spaceBetween: 30, // Adjust space between slides
     	slidesPerView: 1, // Adjust based on how many slides you want to show at once
     	centeredSlides: true, // Center the active slide
         autoHeight: false,
         autoplay: {
-            delay: 3000,
-			disableOnInteraction: false,
+            delay: 5000,
+			disableOnInteraction: true,
 		},
 		// If we need pagination
 		pagination: {

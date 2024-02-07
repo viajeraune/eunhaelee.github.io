@@ -5,7 +5,7 @@ description: Data visualization of how climate change is driving migration in Ce
 image: assets/images/coffeedataviz/worldmap.png
 nav-menu: false
 show_tile: true
-order: 3
+order: 9
 ---
 
 <!-- Main -->

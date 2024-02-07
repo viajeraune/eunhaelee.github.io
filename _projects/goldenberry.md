@@ -1,12 +1,12 @@
----
+<!-- ---
 layout: page
-title: Research Project in Deep Learning
-description: Investigating the impact of model size on forgetting
+title: Inclusive innovation case study
+description: Rehabilitating Goldenberry Production in the Ecuadorian Andes With Regenerative Agriculture
 image: assets/images/net.jpeg
 nav-menu: false
-show_tile: true
-order: 10
----
+show_tile: false
+order: 6
+--- -->
 
 <!-- Main -->
 <div id="main" class="alt">
@@ -20,13 +20,10 @@ order: 10
 		{% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="colorful nets against black background" /></span>{% endif %}
 <!-- Content -->
 <h2 id="content">Overview</h2>
-<p>Continual learning (CL) focuses on enabling models to learn from new data streams over time while preserving past knowledge, dealing with the stability-plasticity dilemma. Online Continual Learning (OCL) evolves this concept by adapting models to learn from ongoing small batches of data in real-time, without revisiting past data, often due to privacy or resource limitations. OCL strives for a balance between acquiring new information and retaining old knowledge in dynamic environments.</p>
+<p>This case study describes an inclusive local innovation process involving smallholder farming communities in the Ecuadorian Andes engaged in producing organic goldenberries for export. In early 2020, as the global COVID-19 pandemic started to disrupt supply chains, health, and livelihoods around the world, these communities found themselves facing a novel and highly aggressive plant disease referred to colloquially as "mancha morada." The case study describes a co-innovation process led by an Ecuadorian nonprofit organization, Aliados, through which these communities, working in collaboration with Aliados technicians and other local stakeholders, developed a successful approach to preventing and controlling mancha morada using principles and practices from regenerative agriculture. Drawing on original primary research, the case study describes the innovation process in depth, following the chronology of the case as described by research participants to identify key turning points, factors contributing to the success of this process, and the results these farming communities have been able to jointly achieve.</p>
 
-<p>This study investigates the impact of model size on online continual learning performance, with a focus on catastrophic forgetting. Employing ResNet architectures of varying sizes and a slim version of ResNet18, the research examines how network depth and width affect model performance in class-incremental learning using the SplitCIFAR-10 dataset. </p>
 
-<p>Key findings reveal that larger models do not guarantee better continual learning performance; in fact, they often struggle more in adapting to new tasks, particularly in online settings. These results challenge the notion that larger models inherently mitigate catastrophic forgetting, highlighting the nuanced relationship between model size and continual learning efficacy. This study contributes to a deeper understanding of model scalability and its practical implications in continual learning scenarios.</p>
-
-<p><a href="" class="button">See paper on arxiv</a></p>
+<p><a href="https://www.researchgate.net/publication/362605228_Rehabilitating_Goldenberry_Production_in_the_Ecuadorian_Andes_With_Regenerative_Agriculture" class="button">See paper on ResearchGate</a></p>
 
 
 <h2 id="content">Highlights</h2>

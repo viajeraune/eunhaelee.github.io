@@ -17,6 +17,7 @@
 			@include vendor('display', 'flex');
 			@include vendor('flex-direction', 'row');
 			background-color: desaturate(lighten(_palette(bg-alt), 2), 1);
+			align-items: stretch; /* Ensure items stretch to fill container height */
 
 			> .image {
 				background-position: center center;
@@ -25,11 +26,14 @@
 				display: block;
 				position: relative;
 				width: 30%;
+				overflow: hidden; /* Hide overflow to cut larger images */
 
 				img {
 					border-radius: 0;
 					display: block;
 					width: 100%;
+					object-fit: cover; /* Cover area without distorting ratio */
+                	height: 100%; /* Ensure img tag fills container */
 				}
 
 				&:before {

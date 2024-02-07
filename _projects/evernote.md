@@ -1,12 +1,12 @@
----
+<!-- ---
 layout: page
-title: Research Project in Deep Learning
+title: Web Clipper @ Evernote
 description: Investigating the impact of model size on forgetting
 image: assets/images/net.jpeg
 nav-menu: false
-show_tile: true
-order: 10
----
+show_tile: false
+order: 8
+--- -->
 
 <!-- Main -->
 <div id="main" class="alt">
@@ -15,7 +15,7 @@ order: 10
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>[Research paper] How does model size impact catastrophic forgetting in online continual learning? </h1>
+			<h1>Evernote </h1>
 		</header>
 		{% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="colorful nets against black background" /></span>{% endif %}
 <!-- Content -->
