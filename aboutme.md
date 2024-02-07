@@ -33,7 +33,7 @@ show_tile: false
 
 <p>I'm a dual master's candidate in Engineering Management (<a href="https://idm.mit.edu/">Integrated Design and Management</a>) and Computer Science (EECS) at MIT, graduating in May 2024. My focus is on building responsible and user-centered applications of AI/ML technologies in ways that boost human creativity, productivity, and well-being. </p>
 
-<p>I combine my graduate training in human-centered design, computer science, and tech leadership, my undergrad training in anthropology, my expertise in building tech products, as well as my experience in community development and social impact to <span>deliver products that empower people and communities.</span> </p>
+<p>I combine my graduate training in human-centered design, computer science, and tech leadership, my undergrad training in anthropology and the liberal arts, my expertise in building tech products, as well as my experience in community development and social impact to <span>deliver products that empower people and communities.</span> </p>
 
 <!-- <p>I can wear many hats, but one of my favorite lens through which I see the field of AI/ML is human-centered design — how can we harness the power of technology to build products and businesses that truly benefit the world? How can we integrate invaluable insights from social sciences and humanities to be more intentional about the future we’re designing?</p> -->
 
@@ -46,10 +46,10 @@ show_tile: false
 <h3>Things that have kept me busy recently</h3>
 <ul>
 <li>Conducting research for my master's thesis on Human-AI interaction and HCI</li>
-<li>Building AI/ML community in Boston/Cambridge area and organizing the MIT Sloan AI & ML Conference 2024</li>
-<li>Exploring the future of advice with <a href="https://agelab.mit.edu/">MIT AgeLab</a></li>
-<li>Working on interesting projects, like this video-to-music generator</li>
-<li>Learning how to be a plant mom! 🪴</li>
+<li>Organizing the <a href="https://www.mitaimlconference.com/">MIT Sloan AI & ML Conference 2024</a> and building an AI/ML community in Boston/Cambridge area</li>
+<li>Investigating the future of advice with <a href="https://agelab.mit.edu/">MIT AgeLab</a></li>
+<li>Working on interesting projects, like this <a href="https://github.com/ltejedor/audible_thoughts">video-to-music generator</a></li>
+<li>Learning how to be a plant mom 🪴</li>
 </ul>
 
 
