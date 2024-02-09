@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The story behind your coffee
-description: Data visualization of how climate change is driving migration in Central America’s coffee belt
+description: Interactive data visualization of how climate change is driving migration in Central America’s coffee belt
 image: assets/images/coffeedataviz/worldmap.png
 nav-menu: false
 show_tile: true

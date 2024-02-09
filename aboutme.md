@@ -20,7 +20,7 @@ show_tile: false
 
 <div class="row">
 	<div class="6u 12u$(small)">
-        <h3 id="content">human-centered <br /> AI product manager <br /> with an anthropologist's perspective  </h3>
+        <h3 id="content"> human-centered <br /> AI product manager <br /> with an anthropologist's insight </h3>
         <br />
         <h5>...a mouthful, right?</h5>
 	</div>
@@ -33,15 +33,16 @@ show_tile: false
 
 <p>I'm a dual master's candidate in Engineering Management (<a href="https://idm.mit.edu/">Integrated Design and Management</a>) and Computer Science (EECS) at MIT, graduating in May 2024. My focus is on building responsible and user-centered applications of AI/ML technologies in ways that boost human creativity, productivity, and well-being. </p>
 
-<p>I combine my graduate training in human-centered design, computer science, and tech leadership, my undergrad training in anthropology and the liberal arts, my expertise in building tech products, as well as my experience in community development and social impact to <span>deliver products that empower people and communities.</span> </p>
+<p>I combine my graduate training in human-centered design and computer science, my undergrad training in anthropology and the liberal arts, and my 8+ years of experience in building tech products for positive impact to <span>deliver products that empower people and communities.</span> </p>
 
 <!-- <p>I can wear many hats, but one of my favorite lens through which I see the field of AI/ML is human-centered design — how can we harness the power of technology to build products and businesses that truly benefit the world? How can we integrate invaluable insights from social sciences and humanities to be more intentional about the future we’re designing?</p> -->
 
 <!-- <blockquote>You can't connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future. You have to trust in something - your gut, destiny, life, karma, whatever. This approach has never let me down, and it has made all the difference in my life. <br/> - Steve Jobs</blockquote> -->
 
-<p>🪄 My superpower is at the intersection of technology, design, and research. I have 8+ years of experience in technology products that empower humans and communities.</p>
-<p>💡 I'm a generalist with a specialist's eye and a bias towards execution. I thrive in environments wired for learning, creativity, and teamwork.</p>
-<p>✨️ My vision is to contribute to building a more inclusive and sustainable future by empowering people through humanity-centered design.</p>
+<p>💡 I'm a generalist with a specialist's eye and a bias towards execution. My superpower is finding a path from 0 to 1, regardless of circumstances.</p>
+<p>🪄 I thrive in environments wired for learning, collaboration, creativity, and ownership. </p>
+<p>✨️ My life principle: "My life starts at the end of my comfort zone."</p>
+
     
 <h3>Things that have kept me busy recently</h3>
 <ul>
