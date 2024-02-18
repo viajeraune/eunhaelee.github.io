@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Taptilo+
-description: Fun and easy way to learn braille!
+description: App redesign for a multimodal braille educational device 
 image: assets/images/taptilo/plus.png
 nav-menu: false
 show_tile: true

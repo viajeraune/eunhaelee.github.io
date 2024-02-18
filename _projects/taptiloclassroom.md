@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Taptilo Classroom
-description: Empowering braille teachers and students
+description: A new app ecosystem that empowers braille teachers and students
 image: assets/images/taptilo/1.png
 nav-menu: false
 show_tile: true

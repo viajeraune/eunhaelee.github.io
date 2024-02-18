@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Research Project in Deep Learning
-description: Investigating the impact of model size on forgetting
+title: Research in Continual Deep Learning
+description: Investigating the impact of model size on continual learning performance
 image: assets/images/net.jpeg
 nav-menu: false
 show_tile: true
