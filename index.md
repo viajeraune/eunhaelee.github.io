@@ -8,4 +8,4 @@ author: null
 show_tile: false
 ---
 
-an empathy-driven user advocate working at the heart of ai + product + design. 
+<!-- ai + design + product  -->
