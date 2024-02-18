@@ -14,6 +14,8 @@ show_tile: false
 	<div class="inner">
 		<header class="major">
 			<h1>Hey, I'm Eunhae!</h1>
+            <a href="https://www.name-coach.com/eunhaelee">
+            <strong style="font-size:12px;">How to pronounce my name</strong></a>
 		</header>
 
 <!-- Content -->
@@ -31,17 +33,18 @@ show_tile: false
 	</div>
 </div>
 
-<p>I'm a dual master's candidate in Engineering Management (<a href="https://idm.mit.edu/">Integrated Design and Management</a>) and Computer Science (EECS) at MIT, graduating in May 2024. My focus is on building responsible and user-centered applications of AI/ML technologies in ways that boost human creativity, productivity, and well-being. </p>
+<p>I'm a dual master's candidate in Engineering Management (<a href="https://idm.mit.edu/">Integrated Design and Management</a>) and Computer Science (<a href="https://www.eecs.mit.edu/">EECS</a>) at MIT, graduating in May 2024. My focus is on building responsible and user-centered applications of AI/ML technologies in ways that boost human creativity, productivity, and well-being. </p>
 
-<p>I combine my graduate training in human-centered design and computer science, my undergrad training in anthropology and the liberal arts, and my 8+ years of experience in building tech products for positive impact to <span>deliver products that empower people and communities.</span> </p>
+<p>I combine my 8+ years of experience in building tech products for positive impact, my graduate training in human-centered design and computer science, and my undergrad training in anthropology and the liberal arts, to <span>design and deliver products that empower people and communities.</span> </p>
 
 <!-- <p>I can wear many hats, but one of my favorite lens through which I see the field of AI/ML is human-centered design — how can we harness the power of technology to build products and businesses that truly benefit the world? How can we integrate invaluable insights from social sciences and humanities to be more intentional about the future we’re designing?</p> -->
 
 <!-- <blockquote>You can't connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future. You have to trust in something - your gut, destiny, life, karma, whatever. This approach has never let me down, and it has made all the difference in my life. <br/> - Steve Jobs</blockquote> -->
 
-<p>💡 I'm a generalist with a specialist's eye and a bias towards execution. My superpower is finding a path from 0 to 1, regardless of circumstances.</p>
+<p>💡 I'm a generalist with a specialist's eye and a bias towards execution.</p>
+<p>✨️ My superpower is finding a path from 0 to 1; being resourceful and creative along the way while being laser-focused on the larger goal.</p>
 <p>🪄 I thrive in environments wired for learning, collaboration, creativity, and ownership. </p>
-<p>✨️ My life principle: "My life starts at the end of my comfort zone."</p>
+<p>🧭 My life principle: "My life starts at the end of my comfort zone."</p>
 
     
 <h3>Things that have kept me busy recently</h3>
