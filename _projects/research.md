@@ -28,6 +28,7 @@ order: 10
 
 <p><a href="" class="button">See paper on arxiv</a></p>
 
+<br />
 
 <h2 id="content">Highlights</h2>
 <div class="row">
