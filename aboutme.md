@@ -55,6 +55,7 @@ show_tile: false
 <ul>
     <li>Conducting an experiment for my thesis research in Human-AI interaction, exploring the relationship between AI predictions and self-fulfilling prophecy 🔮</li>
     <li>Just wrapped up the <a href="https://www.mitaimlconference.com/">MIT Sloan AI & ML Conference 2024</a> in March! Also building an AI/ML community in Boston/Cambridge area</li>
+    <li>Reading a bunch of LLM papers and working on a cool project for a graduate course at MIT</li>
     <li>Investigating the future of advice with <a href="https://agelab.mit.edu/">MIT AgeLab</a></li>
     <li>Working on interesting side projects, like this <a href="https://github.com/ltejedor/audible_thoughts">video-to-music generator</a></li>
 </ul>
@@ -64,7 +65,7 @@ show_tile: false
 <!-- <hr class="major" /> -->
 
 <h3>Get in touch</h3>
-<p>If you're interested in AI/ML products, human-centered design, HCI, anthropology, social entrepreneurship, multimodal experiences, let's talk!</p>
+<p>If you're interested in AI/ML products, human-centered design, HCI, anthropology, social entrepreneurship, multimodal experiences, or anything in between, let's talk!</p>
 <p>Email me at <a href="mailto:{{ site.email }}">eunhae at mit dot edu</a></p>
 <p>Let's connect on <a href="https://www.linkedin.com/in/eunhaelee/">LinkedIn</a></p>
 
