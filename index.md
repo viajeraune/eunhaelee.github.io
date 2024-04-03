@@ -8,4 +8,4 @@ author: null
 show_tile: false
 ---
 
-<!-- ai + design + product  -->
+<!-- ai + product + design + research  -->

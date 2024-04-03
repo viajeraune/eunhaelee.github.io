@@ -22,9 +22,9 @@ order: 10
 <h2 id="content">Overview</h2>
 <p><strong>Continual Learning (CL)</strong> focuses on enabling models to learn from new data streams over time while preserving past knowledge. Continual Learning seeks to minimize catastrophic forgetting, a critical phenomenon in which deep learning models forget previously trained information upon being training on new data. <strong>Online Continual Learning (OCL)</strong> evolves this concept by adapting models to learn from ongoing small batches of data in real-time. Online Continual Learning strives for a balance between acquiring new information and retaining old knowledge in dynamic environments.</p>
 
-<p>This study investigates the impact of model size on online continual learning performance and forgetting. Employing ResNet architectures of varying sizes and a slim version of ResNet18, the research examines how network depth and width affect model performance in class-incremental learning using the SplitCIFAR-10 dataset. </p>
+<p>This study investigates the impact of model size on online continual learning performance and forgetting, using the SplitCIFAR-10 continual learning benchmark. I train and evaluate ResNet architectures of varying sizes and widths to examine how network size affects model performance in an online continual learning setting (class-incremental learning).</p>
 
-<p>Key findings reveal that <strong>larger models do not necessarily guarantee better continual learning performance</strong>; in fact, they often struggle more in adapting to new tasks, particularly in online settings. These results challenge the notion that larger models inherently mitigate catastrophic forgetting, highlighting the nuanced relationship between model size and continual learning efficacy. This study contributes to a deeper understanding of model scalability and its practical implications in continual learning scenarios.</p>
+<p>Key findings reveal that <strong>larger models do not necessarily guarantee better continual learning performance</strong>; in fact, they often struggle more in adapting to new tasks, particularly in online settings. These results challenge the existing notion that larger models inherently mitigate catastrophic forgetting, highlighting the nuanced relationship between model size and continual learning efficacy. This study contributes to a deeper understanding of model scalability and its practical implications in continual learning scenarios.</p>
 
 <p><a href="" class="button">See paper on arxiv</a></p>
 
@@ -71,7 +71,7 @@ order: 10
 
 <!-- <p><a href="">See paper on arxiv</a></p> -->
 
-<p>This research was completed as a final project for the graduate course 6.S898 Deep Learning at MIT.</p>
+<p>This research was completed as a final project for the graduate course <a href="https://phillipi.github.io/6.s898/">6.S898 Deep Learning</a> at MIT in Fall 2023.</p>
 
 
 </div>

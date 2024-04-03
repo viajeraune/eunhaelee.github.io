@@ -22,7 +22,7 @@ show_tile: false
 
 <div class="row">
 	<div class="6u 12u$(small)">
-        <h3 id="content"> human-centered <br /> AI product manager <br /> with an anthropologist's insight </h3>
+        <h3 id="content"> human-centered <br /> AI product manager <br /> with an anthropologist's eye</h3>
         <br />
         <h5>...a mouthful, right?</h5>
 	</div>
@@ -33,7 +33,7 @@ show_tile: false
 	</div>
 </div>
 
-<p>I'm a dual master's candidate in Engineering Management (<a href="https://idm.mit.edu/">Integrated Design and Management</a>) and Computer Science (<a href="https://www.eecs.mit.edu/">EECS</a>) at MIT, graduating in May 2024. My focus is on building user-centered and responsible applications of AI/ML technologies in ways that boost human creativity, productivity, and well-being. </p>
+<p>I'm a dual master's candidate in Engineering Management (<a href="https://idm.mit.edu/">Integrated Design and Management</a>) and Computer Science (<a href="https://www.eecs.mit.edu/">EECS</a>) at MIT, graduating in May 2024. My focus is on building user-centered and responsible applications of AI/ML technologies in ways that boost creativity, productivity, and well-being. </p>
 
 <p>I combine 8+ years of experience in building tech products for positive impact, my graduate training in <strong>human-centered design</strong> and <strong>computer science/AI</strong>, and my undergrad training in <strong>anthropology</strong> and the liberal arts, to <span>design and deliver products that empower people and communities.</span> </p>
 
@@ -53,9 +53,9 @@ show_tile: false
 <h3>Things that have kept me busy recently</h3>
 
 <ul>
-    <li>Conducting an experiment for my thesis research in Human-AI interaction, exploring the relationship between AI predictions and self-fulfilling prophecy 🔮</li>
-    <li>Just wrapped up the <a href="https://www.mitaimlconference.com/">MIT Sloan AI & ML Conference 2024</a> in March! Also building an AI/ML community in Boston/Cambridge area</li>
-    <li>Reading a bunch of LLM papers and working on a cool project for a graduate course at MIT</li>
+    <li>Conducting research for my thesis in Human-AI interaction with the <a href="https://www.media.mit.edu/groups/fluid-interfaces/overview/">Fluid Interfaces Group</a> at the MIT Media Lab, exploring the relationship between AI predictions and self-fulfilling prophecy 🔮</li>
+    <li>Hosted the <a href="https://www.mitaimlconference.com/">MIT Sloan AI & ML Conference 2024</a> in March! Also building an AI/ML community in Boston/Cambridge area</li>
+    <li>Reading a bunch of LLM papers and working on a cool project on LLM personas for social robots for a graduate course at MIT</li>
     <li>Investigating the future of advice with <a href="https://agelab.mit.edu/">MIT AgeLab</a></li>
     <li>Working on interesting side projects, like this <a href="https://github.com/ltejedor/audible_thoughts">video-to-music generator</a></li>
 </ul>
