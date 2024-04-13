@@ -24,10 +24,10 @@ show_tile: false
 <section id="two" class="spotlights">
 {% assign sorted_projects = site.projects | sort: 'order' | reverse %}
   {% for project in sorted_projects %}
-    <section>
-      <a href="{{ project.url | relative_url }}" class="image">
-        <img src="{{ project.image | relative_url }}" alt="" data-position="{{ project.image_position }}" />
-      </a>
+    <section onclick="location.href='{{ project.url | relative_url }}'" style="cursor: pointer;">
+      <div class="image">
+        <img src="{{ project.image | relative_url }}" alt="project image" data-position="{{ project.image_position }}" />
+      </div>
       <div class="content">
         <div class="inner">
           <header class="major">

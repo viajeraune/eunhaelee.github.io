@@ -88,10 +88,10 @@ As we continued to gather more feedback, we found out more ways to improve upon 
 <ul>
 	<li>When: July 2018 - Oct 2018</li>
 	<li>Duration: 3 months</li>
-    <li>Collaborators: Software engineers (Mobile developer, Embedded developer)</li>
+    <li>Collaborators: Software and embedded engineers</li>
 </ul>
 
-<hr class="major" />
+<!-- <hr class="major" /> -->
 
 
 </div>

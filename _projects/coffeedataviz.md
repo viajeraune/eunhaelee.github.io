@@ -59,7 +59,7 @@ order: 9
 	<li>When: March 2023 - May 2023</li>
 	<li>Duration: 2 months</li>
 	<li>Collaborators: Austin, Nishtha, Muqing</li>
-
+	<li>This project was part of the course <a href="">6.C85 Interactive Data Visualization and Society</a> at MIT in Spring 2023.</li>
 </ul>
 
 <hr class="major" />

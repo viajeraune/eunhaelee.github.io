@@ -62,10 +62,18 @@
 		</section>
 	</div>
 </section> -->
-
+<section id="portfolio-page">
+	<div class="inner">
+		<!-- <h4>Wanna check out more?</h4> -->
+		<ul class="actions">
+			<li><a href="/portfolio.html" class="button next">See more</a></li>
+		</ul>
+	</div>
+</section>
 <!-- Footer -->
 	<footer id="footer">
 		<div class="inner">
+			
 			<h3>Let's connect</h3>
 			<ul class="icons">
 				{% for key_value in site.socials %}
@@ -84,12 +92,24 @@
 				<li>Jekyll integration: <a href="http://andrewbanchi.ch" target="_blank">Andrew Banchich</a></li> -->
 
 			</ul>
+			
 		</div>
+		
 	</footer>
 
 </div>
 
 <!-- Scripts -->
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        var section = document.getElementById('portfolio-page');
+        if (window.location.pathname === '/portfolio.html' | window.location.pathname === '/aboutme.html') {
+            section.style.display = 'none';
+        }
+    });
+</script>
+
 	<script src="{{ "assets/js/jquery.min.js" | absolute_url }}"></script>
 	<script src="{{ "assets/js/jquery.scrolly.min.js" | absolute_url }}"></script>
 	<script src="{{ "assets/js/jquery.scrollex.min.js" | absolute_url }}"></script>

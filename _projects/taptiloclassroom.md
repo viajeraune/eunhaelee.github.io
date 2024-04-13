@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Taptilo Classroom
-description: A new app ecosystem that empowers braille teachers and students
+description: Reimagining braille education for visually impaired students and their teachers in the COVID era
 image: assets/images/taptilo/1.png
 nav-menu: false
 show_tile: true
@@ -23,7 +23,7 @@ order: 4
 <!-- <h2 id="content">Overview</h2> -->
 <p><a href="https://www.taptilo.com/">Taptilo</a> is an interactive braille education tool that makes learning braille easy and fun for beginners and is used by schools and teachers of students with visual impairment. </p>
 
-<p>During the pandemic, as schools around the world closed and people were forced to stay home, we re-evaluated the strategic positioning of Taptilo in the special education market to meet the changing needs of users in a more digitized society. </p>
+<p>During the COVID pandemic, as schools around the world closed and people were forced to stay home, we re-evaluated the strategic positioning of Taptilo in the special education market to meet the changing needs of users in a more digitized society. </p>
 
 <p>Taptilo Classroom offers an integrated platform that allows teachers to manage their students’ learning process in both in-person and remote settings.</p>
 
@@ -97,12 +97,13 @@ in-person and remote interactions. Our solution needed to respond to the teacher
 </div>
 
 <h2>Impact</h2>
-<p>After a delay in development due to the pandemic, in November 2021, the two new apps and the software update of the physical product were finally launched. Taptilo Classroom and Taptilo are being used by students and teachers worldwide to increase braille literacy.</p>
+<p>While there was some delay in development due to the pandemic, the two new apps and the software update of the physical product were finally launched in November 2021. Taptilo Classroom and Taptilo are now being used by students and teachers worldwide to increase braille literacy.</p>
 
 <h4>Details</h4>
 <ul>
 	<li>When: April 2020 - Oct 2020</li>
 	<li>Duration: 6 months</li>
+	<li>Collaborators: Software and embedded engineers, UI designer</li>
 </ul>
 
 <hr class="major" />
