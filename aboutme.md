@@ -33,7 +33,7 @@ show_tile: false
 	</div>
 </div>
 
-<p>I'm a dual master's candidate in Engineering Management (<a href="https://idm.mit.edu/">Integrated Design and Management</a>) and Computer Science (<a href="https://www.eecs.mit.edu/">EECS</a>) at MIT, graduating in May 2024. My focus is on building user-centered and responsible applications of AI/ML technologies in ways that boost creativity, productivity, and well-being. </p>
+<p>I'm a dual master's candidate in Engineering Management (<a href="https://idm.mit.edu/">Integrated Design and Management</a>) and Computer Science (<a href="https://www.eecs.mit.edu/">EECS</a>) at MIT. My focus is on building user-centered and responsible applications of AI/ML technologies in ways that boost creativity, productivity, and well-being. </p>
 
 <p>I combine 8+ years of experience in building tech products for positive impact, my graduate training in <strong>human-centered design</strong> and <strong>computer science/AI</strong>, and my undergrad training in <strong>anthropology</strong> and the liberal arts, to <span>design and deliver products that empower people and communities.</span> </p>
 
