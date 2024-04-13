@@ -35,7 +35,9 @@ show_tile: false
 
 <p>I'm a dual master's candidate in Engineering Management (<a href="https://idm.mit.edu/">Integrated Design and Management</a>) and Computer Science (<a href="https://www.eecs.mit.edu/">EECS</a>) at MIT. My focus is on building user-centered and responsible applications of AI/ML technologies in ways that boost creativity, productivity, and well-being. </p>
 
-<p>I combine 8+ years of experience in building tech products for positive impact, my graduate training in <strong>human-centered design</strong> and <strong>computer science/AI</strong>, and my undergrad training in <strong>anthropology</strong> and the liberal arts, to <span>design and deliver products that empower people and communities.</span> </p>
+<p>I combine 8+ years of experience in building tech products for positive impact, my graduate training in <strong>human-centered design</strong> and <strong>AI/computer science</strong>, and my undergrad training in <strong>anthropology</strong> and the liberal arts, to <span>design and deliver products that empower people and communities.</span> </p>
+
+<p>For me, it all starts with empathy. Yes, even for AI.</p>
 
 <!-- <p>I can wear many hats, but one of my favorite lens through which I see the field of AI/ML is human-centered design — how can we harness the power of technology to build products and businesses that truly benefit the world? How can we integrate invaluable insights from social sciences and humanities to be more intentional about the future we’re designing?</p> -->
 
