@@ -26,7 +26,7 @@ order: 10
 
 <p>Key findings show that <strong>larger models do not necessarily guarantee better continual learning performance</strong>; in fact, they often struggle more in adapting to new tasks, particularly in online settings. These results challenge the existing notion that larger models inherently mitigate catastrophic forgetting, highlighting the nuanced relationship between model size and continual learning efficacy. This study contributes to a deeper understanding of model scalability and its practical implications in continual learning scenarios.</p>
 
-<p><a href="" class="button">See paper on arxiv</a></p>
+<p><a href="https://arxiv.org/abs/2407.00176" class="button">See paper on arxiv</a></p>
 
 <br />
 
@@ -73,9 +73,8 @@ order: 10
 
 <h4>Details</h4>
 <ul>
-	<li>When: November - December 2023</li>
-	<li>Duration: 4 weeks</li>
-	<li>This research was completed as a final project for the graduate course <a href="https://phillipi.github.io/6.s898/">6.S898 Deep Learning</a> at MIT in Fall 2023.</li>
+	<li>When: Fall 2023</li>
+	<li>This study was completed as a final project for the graduate course <a href="https://phillipi.github.io/6.s898/">6.S898 Deep Learning</a> at MIT.</li>
 </ul>
 
 
