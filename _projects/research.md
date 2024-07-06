@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research in Continual Deep Learning
+title: How does model size impact forgetting in deep learning models?
 description: Investigating the impact of model size on continual learning performance
 image: assets/images/net.jpeg
 nav-menu: false
