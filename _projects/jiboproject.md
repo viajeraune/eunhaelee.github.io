@@ -61,14 +61,15 @@ apply these concepts to Jibo through constructing and updating a knowledge graph
 <p>The Dataset is made of utterances describing the robot Jibo. The resulting Knowledge Graph is centered around the Jibo node. </p>
 <ul>
     <li>When prompting the LLM the context window is easily filled as every query contains the entire graph---all the relations pass through the central node Jibo.</li>
-    <li>To redistribute more equally the relations and enable more efficient retrieval, we subdivide the relations of the central Jibo node in \textbf{Second-Order Nodes} that encompass different high-level attributes of Jibo. (e.g. <em>Jibo-likes-holidays</em>, <em>Jibo-likes-sports</em>, <em>Jibo-possessions</em> ... etc)</li>
+    <li>To redistribute more equally the relations and enable more efficient retrieval, we subdivide the relations of the central Jibo node in Second-Order Nodes that encompass different high-level attributes of Jibo. (e.g. <em>Jibo-likes-holidays</em>, <em>Jibo-likes-sports</em>, <em>Jibo-possessions</em> ... etc)</li>
 </ul>
 
+The resulting knowledge graph-based RAG (KG-RAG) pipeline is shown in the following figure:
 
 <img src="{{ site.baseurl }}/assets/images/jiboproject/kg_rag_pipeline.jpeg" alt="knowledge graph RAG pipeline" />
 
 
-<h2 id="content">Results</h2>
+<h2 id="content">Evaluation</h2>
 <p>A first qualitative analysis over the results seems to suggest that the answers of the Knowledge Graph respect Jibo persona and prior knowledge. We plan to further evaluate our approach using our evaluation pipeline.</p>
 
 <img src="{{ site.baseurl }}/assets/images/jiboproject/qualitative_results.png" alt="knowledge graph RAG pipeline" />
