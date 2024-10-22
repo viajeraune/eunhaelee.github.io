@@ -4,6 +4,7 @@ layout: landing
 description: 'Check out a selection of my work'
 image: assets/images/pic03.jpg
 nav-menu: true
+order: 2
 show_tile: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Constructing a Schema for Social Robots Using Knowledge Graphs
-description: Giving social robots memory and personality
+description: Can we give social robots memory and personality using graph RAG?
 image: assets/images/jiboproject/robotsketch.png
 nav-menu: false
 show_tile: true

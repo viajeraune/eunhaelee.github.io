@@ -3,6 +3,7 @@ layout: page
 title: About Me
 image: assets/images/pic01.jpg
 nav-menu: true
+order: 3
 show_tile: false
 ---
 
@@ -24,7 +25,7 @@ show_tile: false
 	<div class="6u 12u$(small)">
         <h3 id="content"> human-centered <br /> AI product manager <br /> with an anthropologist's eye</h3>
         <br />
-        <h5>...a mouthful, right?</h5>
+        <h6>...a mouthful, right?</h6>
 	</div>
     <div class="6u$ 12u$(small)" style="text-align: center; display: flex; justify-content: center; align-items: center;">
         <div style="border-radius: 50%; overflow: clip; width: 250px; height: 250px;">
@@ -33,16 +34,17 @@ show_tile: false
 	</div>
 </div>
 
-<p>I'm a dual master's candidate in Engineering Management (<a href="https://idm.mit.edu/">Integrated Design and Management</a>) and Computer Science (<a href="https://www.eecs.mit.edu/">EECS</a>) at MIT. My focus is on building user-centered and responsible applications of AI/ML technologies in ways that boost creativity, productivity, and well-being. </p>
+<p>I'm an interdisciplinary product manager/researcher/designer with a passion for building great products that empower people and boost creativity, productivity, and well-being. I just completed a dual master's degree in Engineering Management (<a href="https://idm.mit.edu/">Integrated Design and Management</a>) and Computer Science (<a href="https://www.eecs.mit.edu/">EECS</a>) at MIT in September 2024.</p>
 
-<p>I combine 8+ years of experience in building tech products for positive impact, my graduate training in <strong>human-centered design</strong> and <strong>AI/computer science</strong>, and my undergrad training in <strong>anthropology</strong> and the liberal arts, to <span>design and deliver products that empower people and communities.</span> </p>
+<p>I combine 8+ years of experience in building tech products for positive societal impact, my background in <strong>human-centered design</strong>, <strong>AI/ML</strong>, and <strong>anthropology and psychology</strong>, to <span>design and deliver products that push the boundaries of effective human-AI collaboration.</span> </p>
 
-<p>For me, it all starts with empathy. Yes, even for AI.</p>
+<p>For me, a great product starts with empathy and a deep understanding of user needs. Once truly internalized, these insights become the foundation for innovative, and sometimes unconventional, ideas. By combining this understanding with a first-principles approach, we can unlock groundbreaking solutions that redefine what's possible.</p>
 
 <!-- <p>I can wear many hats, but one of my favorite lens through which I see the field of AI/ML is human-centered design — how can we harness the power of technology to build products and businesses that truly benefit the world? How can we integrate invaluable insights from social sciences and humanities to be more intentional about the future we’re designing?</p> -->
 
 <!-- <blockquote>You can't connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future. You have to trust in something - your gut, destiny, life, karma, whatever. This approach has never let me down, and it has made all the difference in my life. <br/> - Steve Jobs</blockquote> -->
 
+<p>A few things about how I work:</p>
 <div>
     <p>💡 I'm a generalist with a specialist's eye and a bias towards execution.</p>
     <p>✨️ My superpower is finding a path from 0 to 1; being creatively resourceful along the way while being laser-focused on the end goal.</p>

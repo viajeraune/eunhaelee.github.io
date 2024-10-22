@@ -74,7 +74,7 @@
 		margin: 0;
 	}
 
-	h1, h2, h3, h4, h5, h6 {
+	h1, h2, h3, h4 {
 		color: _palette(fg-bold);
 		font-weight: _font(weight-bold);
 		line-height: 1.65;
@@ -104,11 +104,31 @@
 	}
 
 	h5 {
-		font-size: 0.9em;
+		color: _palette(fg);
+		font-size: 1.35em;
+		font-weight: _font(weight-bold);
+		line-height: 1.65;
+		margin: 0 0 (_size(element-margin) * 0.5) 0;
+		font-family: _font(secondary);
+
+		a {
+			color: inherit;
+			border-bottom: 0;
+		}
 	}
 
 	h6 {
-		font-size: 0.7em;
+		color: _palette(fg-bold);
+		font-size: 0.9em;
+		font-weight: _font(weight-bold);
+		line-height: 1.65;
+		margin: 0 0 (_size(element-margin) * 0.5) 0;
+		font-family: _font(secondary);
+
+		a {
+			color: inherit;
+			border-bottom: 0;
+		}
 	}
 
 	@include breakpoint(small) {

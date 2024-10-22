@@ -1,7 +1,7 @@
 ---
 layout: page
-title: How does model size impact forgetting in deep learning models?
-description: Investigating the impact of model size on continual learning performance
+title: Investigating the impact of model architecture on continual learning performance
+description: How do ResNet models with differing depth and width fare in catastrophic forgetting?
 image: assets/images/net.jpeg
 nav-menu: false
 show_tile: true
@@ -15,7 +15,7 @@ order: 10
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>[Research paper] How does model size impact catastrophic forgetting in online continual learning? </h1>
+			<h1>Investigating the impact of model architecture on continual learning performance</h1>
 		</header>
 		{% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="colorful nets against black background" /></span>{% endif %}
 <!-- Content -->
