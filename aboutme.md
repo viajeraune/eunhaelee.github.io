@@ -34,7 +34,7 @@ show_tile: false
 	</div>
 </div>
 
-<p>I'm an interdisciplinary product manager/researcher/designer with a passion for building great products that empower people and boost creativity, productivity, and well-being. I just completed a dual master's degree in Engineering Management (<a href="https://idm.mit.edu/">Integrated Design and Management</a>) and Computer Science (<a href="https://www.eecs.mit.edu/">EECS</a>) at MIT in September 2024.</p>
+<p>I'm an interdisciplinary product leader with a passion for designing great products that empower people and boost creativity, productivity, and well-being. I just completed a dual master's degree in Engineering Management (<a href="https://idm.mit.edu/">Integrated Design and Management</a>) and Computer Science (<a href="https://www.eecs.mit.edu/">EECS</a>) at MIT in September 2024.</p>
 
 <p>I combine 8+ years of experience in building tech products for positive societal impact, my background in <strong>human-centered design</strong>, <strong>AI/ML</strong>, and <strong>anthropology and psychology</strong>, to <span>design and deliver products that push the boundaries of effective human-AI collaboration.</span> </p>
 

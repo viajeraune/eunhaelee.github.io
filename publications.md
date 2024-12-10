@@ -19,7 +19,7 @@ show_tile: false
 
 <!-- Content -->
 
-<h5>Human-AI Interaction, AI/ML, HCI</h5>
+<h5>Human-AI Interaction, AI/ML</h5>
 
 <!-- <strong>Super-intelligence or Superstition? Exploring Psychological Factors Underlying Unwarranted Belief in AI Predictions</strong> -->
 <p>Lee, E. (2024). <strong>The Power of Perception in Human-AI Interaction: Investigating Psychological Factors and Cognitive Biases that Shape User Belief and Behavior.</strong> Preprint. Available at <a href="https://arxiv.org/abs/2409.15328">https://arxiv.org/abs/2409.15328</a>.</p>

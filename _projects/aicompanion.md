@@ -5,7 +5,7 @@ description: Practical Considerations for AI Assistants with Long-Term Memory
 image: assets/images/aicompanion/aicompanion_cover.png
 nav-menu: false
 show_tile: true
-order: 12
+order: 13
 ---
 
 <!-- Main -->
