@@ -33,7 +33,7 @@ order: 3
 </ol>
 </p>
 
-<p>I led design and strategy and worked on all aspects of UX and UI design. I worked closely our software engineers to define requirements and implement the final designs.</p>
+<!-- <p>I led design and strategy and worked on all aspects of UX and UI design. I worked closely our software engineers to define requirements and implement the final designs.</p> -->
 
 
 <h2 id="content">Taptilo+</h2>
@@ -84,12 +84,12 @@ As we continued to gather more feedback, we found out more ways to improve upon 
 </p>
 
 
-<h4>Details</h4>
+<!-- <h4>Details</h4>
 <ul>
 	<li>When: July 2018 - Oct 2018</li>
 	<li>Duration: 3 months</li>
     <li>Collaborators: Software and embedded engineers</li>
-</ul>
+</ul> -->
 
 <!-- <hr class="major" /> -->
 

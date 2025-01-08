@@ -27,7 +27,7 @@ order: 4
 
 <p>Taptilo Classroom offers an integrated platform that allows teachers to manage their students’ learning process in both in-person and remote settings.</p>
 
-<p>I led user research and discovery, defined product vision and prioritized features, created wireframes and mockups, and worked with a cross-functional team to deliver the final designs. </p>
+<!-- <p>I led user research and discovery, defined product vision and prioritized features, created wireframes and mockups, and worked with a cross-functional team to deliver the final designs. </p> -->
 
 <h2 id="content">Taptilo Classroom for Teachers</h2>
 <p>Taptilo Classroom allows busy teachers to make most of their interactions with their students when teaching braille. Whether they are teaching in class or remotely, Taptilo Classroom allows them to track progress in real time and easily customize lessons for each student.</p>
