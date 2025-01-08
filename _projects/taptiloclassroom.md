@@ -97,14 +97,14 @@ in-person and remote interactions. Our solution needed to respond to the teacher
 </div>
 
 <h2>Impact</h2>
-<p>While there was some delay in development due to the pandemic, the two new apps and the software update of the physical product were finally launched in November 2021. Taptilo Classroom and Taptilo are now being used by students and teachers worldwide to increase braille literacy.</p>
+<p>While there was some delay in development due to the pandemic, we launched the two new apps (Taptilo Classroom & Taptilo) and the software update of the physical product in November 2021. Taptilo Classroom and Taptilo are now being used by students and teachers worldwide to increase braille literacy.</p>
 
-<h4>Details</h4>
+<!-- <h4>Details</h4>
 <ul>
 	<li>When: April 2020 - Oct 2020</li>
 	<li>Duration: 6 months</li>
 	<li>Collaborators: Software and embedded engineers, UI designer</li>
-</ul>
+</ul> -->
 
 <hr class="major" />
 
